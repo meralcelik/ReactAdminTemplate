@@ -22,8 +22,7 @@ const BrandButtons = () => {
               <small> <code>size="sm"</code></small>
             </h6>
             <p>
-              <CButton size="sm" className="btn-facebook btn-brand mr-1 mb-1"><CIcon size="sm" name="cib-facebook" /><span className="mfs-2">Facebook</span></CButton>
-              <CButton size="sm" className="btn-twitter btn-brand mr-1 mb-1"><CIcon size="sm" name="cib-twitter" /><span className="mfs-2">Twitter</span></CButton>
+        
               <CButton size="sm" className="btn-linkedin btn-brand mr-1 mb-1"><CIcon size="sm" name="cib-linkedin" /><span className="mfs-2">LinkedIn</span></CButton>
               <CButton size="sm" className="btn-flickr btn-brand mr-1 mb-1"><CIcon size="sm" name="cib-flickr" /><span className="mfs-2">Flickr</span></CButton>
               <CButton size="sm" className="btn-tumblr btn-brand mr-1 mb-1"><CIcon size="sm" name="cib-tumblr" /><span className="mfs-2">Tumblr</span></CButton>
